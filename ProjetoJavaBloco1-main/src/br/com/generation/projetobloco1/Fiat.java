@@ -71,7 +71,7 @@ public class Fiat {
 		resultado = litrokmfiat[1] * Co2;
 		String menuop[][] = { { "██████████████████████████████████████████████████████████████████████████████████" },
 				{ "██████████████████████████████████████████████████████████████████████████████████" },
-				{ "██A cada 11.9km rodados o Fiat Argo gasta 1L de gasolina██████████████████████████" },
+				{ "██A cada 11.9km rodados o Fiat Pálio gasta 1L de gasolina██████████████████████████" },
 				{ "██Jogando o equivalente a ", "" + new DecimalFormat(".##").format(resultado),
 						"kg de gas carbonico na atmosfera████████████████████" },
 				{ "██████████████████████████████████████████████████████████████████████████████████" },
@@ -91,7 +91,7 @@ public class Fiat {
 		resultado = litrokmfiat[2] * Co2;
 		String menuop[][] = { { "██████████████████████████████████████████████████████████████████████████████████" },
 				{ "██████████████████████████████████████████████████████████████████████████████████" },
-				{ "██A cada 13.1km rodados o Fiat Argo gasta 1L de gasolina██████████████████████████" },
+				{ "██A cada 13.1km rodados o Fiat Uno gasta 1L de gasolina██████████████████████████" },
 				{ "██Jogando o equivalente a ", "" + new DecimalFormat(".##").format(resultado),
 						"kg de gas carbonico na atmosfera████████████████████" },
 				{ "██████████████████████████████████████████████████████████████████████████████████" },
